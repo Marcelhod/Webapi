@@ -1,0 +1,12 @@
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\WeatherApi.exe
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\WeatherApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\WeatherApi.deps.json
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\WeatherApi.runtimeconfig.json
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\WeatherApi.pdb
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,7 @@
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\WeatherApi.exe
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\WeatherApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Srour\OneDrive\Desktop\Webapi\WeatherApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

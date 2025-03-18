@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "WeatherApi\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/9b1cfb28-f3ba-4594-9590-624a6ed3583e/resourceGroups/Webapi-proj/providers/Microsoft.Web/sites/Weather-proj"
+}
